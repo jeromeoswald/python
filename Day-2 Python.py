@@ -240,7 +240,7 @@ print(f.read())
 
 f= open("New.txt","x")
 f= open("Newwwww.txt","w")
-"""
+
 # f= open("New.txt","x")
 # import os
 # os.remove("New.txt")
@@ -251,4 +251,5 @@ if os.path.exists("Newwwww.txt"):
 else:
  print("No Files")
  
+"""
 
